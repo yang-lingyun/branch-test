@@ -14,3 +14,8 @@ public interface DictTypeConstants {
 
 }dadaasaasddasasdas
 q21231231231212
+asdasdasdasdada
+
+    String OPERATE_TYPE = "infra_operate_type"; // 操作类型
+
+}
