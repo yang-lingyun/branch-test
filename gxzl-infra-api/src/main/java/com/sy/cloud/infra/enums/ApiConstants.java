@@ -10,23 +10,14 @@ import com.sy.cloud.framework.common.enums.RpcConstants;
 public class ApiConstants {
 
     /**
-     * 服务名aaaaa
-     * <p>sasdasd
-     * 注意，需要保证和 spring.application.name 保持一致
-     */
-    public staticaa final String PREFIX = RpcConstants.RPC_API_PREFIX + "/infra";
-
-    public static final String VERSION = "1.0.0";
-aaa
-}dasdadasa
-aaa
-     * 服务名dasdasdasdasdasdasda
-     * <p>dasdasPREFIX = astring PREFIX = RpcConstants.RPC_API_PREFIX + "/infra";
-    public static finalas
+     * 服务名aaaaas
     public static finaldasdas
+    public static finaldassdaddas
     public static finaldasdas
-    public static finaldasdas
-    public static finaldasdas
-    public static finaldasdas
-    public static finaldasdas
-    public static finaldasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
