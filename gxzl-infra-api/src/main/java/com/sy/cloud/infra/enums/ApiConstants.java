@@ -8,31 +8,23 @@ import com.sy.cloud.framework.common.enums.RpcConstants;
  * @author 三壹科技
  */
 public class ApiConstants {
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
-asdasasdasdasdasasdasas
+
+    /**
+     * 服务名aaaaas
+    public static finaldasdas
+    publi
+
+     、asdasdasasdasas
+     asdasasdasdasdasasdasas
+     asdasasdasdasdasasdasas
+     asdasasdasdasdasasdasas
+     asdasasdasdasdasasdasas
+     asdasasdasdasdasasc static finaldassdaddas
+    public static finaldasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
+    public static final2112dsasdas
