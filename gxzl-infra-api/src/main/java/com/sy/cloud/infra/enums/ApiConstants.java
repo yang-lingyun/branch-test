@@ -20,3 +20,13 @@ public class ApiConstants {
 aaa
 }dasdadasa
 aaa
+     * 服务名dasdasdasdasdasdasda
+     * <p>dasdasPREFIX = astring PREFIX = RpcConstants.RPC_API_PREFIX + "/infra";
+    public static finalas
+    public static finaldasdas
+    public static finaldasdas
+    public static finaldasdas
+    public static finaldasdas
+    public static finaldasdas
+    public static finaldasdas
+    public static finaldasdas
